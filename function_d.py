@@ -17,6 +17,7 @@ def max_value(numbers):
     # One day I hope to Get with it
 <<<<<<< HEAD
     # return max(numbers)
+    # PUSH IT REAL GOOD
 =======
 =======
     return max(numbers)
